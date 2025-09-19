@@ -3,7 +3,15 @@
 php note taking app system built using php backend language. it is designed for storing and managing notes with unique login system
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+note : sql injection techniques not implemented because it is basic project</br></br>
+enter text like names without any single quotes ('), double quotes(" ") and  backtick (`)</br></br>
 
+ex:
+title : php</br>
+content : php is a programming language</br>
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 # screenshots
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/7630955f-b735-4150-a7c9-c8f8ca545066" />
